@@ -3,8 +3,9 @@
 </div>
 <h1 align="center">Welcome to the Medical Appointment Management System!</h1>
 <p align="center">A fun and efficient way to schedule your medical appointments!</p>
+
 ### Why do need: 
-* The Health care Appointment Scheduling and Notification System can be implemented in hospitals, clinics, dispensaries, etc. This System has the potential to increase the accessibility of a general practice, by offering the patients an opportunity to schedule a doctor’s appointment fast and easily.
+The Health care Appointment Scheduling and Notification System can be implemented in hospitals, clinics, dispensaries, etc. This System has the potential to increase the accessibility of a general practice, by offering the patients an opportunity to schedule a doctor’s appointment fast and easily.
 
 * In the current urban areas, where internet access is far higher, the number of potential consumers provides untapped opportunity for healthcare providers to facilitate and expand the span of primaryhealthcare.
 
