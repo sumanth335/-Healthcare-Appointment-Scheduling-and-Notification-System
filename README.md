@@ -27,7 +27,6 @@
 ![screenshot1](https://github.com/sumanth335/-Healthcare-Appointment-Scheduling-and-Notification-System/assets/122939962/5b044ac6-92ad-41b3-8fe7-d4b47f245315)
 ![screenshot1 (1)](https://github.com/sumanth335/-Healthcare-Appointment-Scheduling-and-Notification-System/assets/122939962/f6a4bc58-1894-4cdf-ae89-9b4510001b69)
 
-![screenshot2](https://github.com/sumanth335/-Healthcare-Appointment-Scheduling-and-Notification-System/assets/122939962/40729151-9d79-4c69-b718-ac524dd0ac80)
 
 ## 🏃‍♂️ Quick Start
 ### Clone the Repository:
