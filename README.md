@@ -1,5 +1,3 @@
-# Healthcare-Appointment-Scheduling-and-Notification-System
-
 <div align="center">
   <img src="medical-appointment-logo.png" alt="Medical Appointment Management Logo" width="300"/>
 </div>
