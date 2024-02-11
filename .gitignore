@@ -1,0 +1,4 @@
+/build/
+.settings/*.prefs
+WebContent/META-INF/context.xml
+.classpath
